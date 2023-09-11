@@ -1,3 +1,9 @@
+/*                  Name : Rushikesh Chobhe
+                    Roll No. : 34
+                    Title : Finding numbers of ZERO (0) using divide and conquer
+*/
+
+
 #include<iostream>
 using namespace std;
 int main()
@@ -27,5 +33,5 @@ int main()
             } 
         }
         count=n-temp;
-    cout<<"Totle number of zeros : "<<count;
+    cout<<"Total number of zeros : "<<count;
 }
