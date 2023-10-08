@@ -1,4 +1,7 @@
-
+/*                  Name : Rushikesh Chobhe
+                    Roll No. : 34
+                    Title :  Minimum work to be done per day to finish given tasks in given D days.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
